@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Alana-Smooth';
+    src: url('Alana-Smooth.ttf') format('opentype'),
+    url('Alana-Smooth.ttf') format('ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+

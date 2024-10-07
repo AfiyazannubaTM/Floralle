@@ -38,6 +38,21 @@ slideshow-component .slideshow.banner {
   flex-direction: column;
   justify-content: center;
   max-width: 54.5rem;
+
+  background: transparent;
+}
+
+.slideshow__text.banner__box  h2{
+  font-family: 'Alana-Smooth', sans-serif;
+  font-size: 120px;
+  color: #F7C6A8;
+}
+
+.slideshow__text.banner__box .banner__text p{
+  font-family: 'Cormorant', serif;
+  font-size: 60px;
+  color: #ffffff;
+  text-transform: capitalize;
 }
 
 .slideshow__text > * {
